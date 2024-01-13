@@ -1,0 +1,19 @@
+*{
+    font-family: 'EB Garamond', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.navbar{
+    background-color: #fff9eb;
+}
+.navbar-brand{
+    color: orange;
+    font-size: 50px;
+    font-weight: 1000;
+}
+.nav-item{
+    font-size: 25px;
+    font-weight: 900;
+    margin-left: 2rem;
+}
