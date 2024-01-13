@@ -1,0 +1,82 @@
+*{
+    font-family: 'EB Garamond', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+    background-color:#f6f6f9;
+}
+.navbar{
+    background-color: #fff9eb;
+}
+.navbar-Head{
+    margin-left: 60px;
+}
+.logo{
+    width: 200px;
+    height: 170px;
+    display: flex;
+    text-align: center;
+    margin-left: 120px;
+}
+.container-fluid a{
+    text-decoration: none;
+}
+.navbar-Head{
+    color:orange;
+    font-size: 40px;
+    font-weight: 100;
+}
+.nav-item{
+    font-size: 25px;
+    margin-left: 2rem;
+}
+.nav-item:hover{
+    font-size: 26px;
+}
+.cards-container{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 70px;
+}
+.card{
+    background-color: #fff9eb;
+    width: 300px;
+    padding: 1rem;
+    margin-left: 5rem;
+    margin-top: 1rem;
+    border-radius: 0.5rem;
+}
+.card-img{
+    width: 100%;
+    border-radius: 0.5rem;
+}
+.card:hover{
+    cursor: pointer;
+    box-shadow: 2px 2px 10px orange;
+}
+.footer{
+    opacity: 0.7;
+    background-color: #fff9eb;
+}
+.icon-call-out{
+    font-size: 20px;
+}
+.quicklinks{
+    margin-left: 125px;
+}
+.quicklinks ul li{
+    margin-top: 20px;
+}
+.foot-head{
+    margin-top: 20px;
+    font-weight: 900;
+}
+.Live-video{
+    width: 100%;
+}
+.video{
+    height: 600px !important;
+    width: 100% !important;
+}
